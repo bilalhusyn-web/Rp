@@ -1,7 +1,7 @@
 <!--
-- 👋 Hi, I’m @Anas iqbal
+- 👋 Hi, I’m Bilal Hussain
 - 👀 I’m  Professional Full Stack Developer as a MERN stack Web Developer Software Engineer.
-- 📫 How to reach me Anasiqbal0009@gmail.com
+- 📫 How to reach me bilalhusyn@gmail.com
 
 <!---
 Mostafa-Zewail77/Mostafa-Zewail77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
